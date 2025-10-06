@@ -133,13 +133,10 @@ npm run format
 
 ## 🌐 Deployment
 
-### Vercel / Netlify (recommended)
-1. Push this repo to GitHub.
-2. Import the repo in Vercel/Netlify.
-3. Framework preset: **Vite**. Build command: `npm run build`. Output directory: `dist`.
+### Netlify (Live Link)
 
-### GitHub Pages (static)
-- Build locally: `npm run build` → upload the `dist` folder to any static host, or use a GH Action to publish `dist` to `gh-pages`.
+Live Link: https://nextgenixbusinessportfolio.netlify.app/
+
 
 ---
 
