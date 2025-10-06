@@ -121,6 +121,10 @@ const plans = [{ name, price, currency, period, features: [...] }, ...]
 
 ---
 
+## ScreenShots
+<img width="1422" height="4369" alt="image" src="https://github.com/user-attachments/assets/a1345675-7208-4d25-80bd-943c2bedb007" />
+
+
 ## 🧪 Lint/Format (optional)
 
 If you add ESLint/Prettier:
